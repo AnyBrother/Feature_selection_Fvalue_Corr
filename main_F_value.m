@@ -70,7 +70,7 @@ eval(['feas_name = '+load_var_name+';']); % 数据对应的列名,是cell类.
 fea_remain = indicators_name_add; % 要保留的指标
 fea_del = indicators_name_del; % 要删除的指标
 threshold = 0.7;  % 相关系数临界点
-criteria_num=[49, 105, 44, 23, 39, 8, 24, 3, 2, 53, 1];  % 每个准则层个数,分准则层指标遴选
+criteria_num=[19, 1];  % 每个准则层个数,分准则层指标遴选
 mark = temp_data_name;
 
 %% F值相关系数指标遴选
