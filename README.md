@@ -11,7 +11,7 @@ This is a Matlab soure code, processing with feature selection with F_value and 
 
 Step1: 点开“main_F_value.m”
 
-Step2: 放入excel数据：“上市企业全部数据读取.xlsx”和“上市企业_人工定义保留或剔除的指标.xlsx”;
+Step2: 放入excel数据：“全部数据读取.xlsx”和“人工定义保留或剔除的指标.xlsx”;
 
 Step3: 设置初始参数(需要人工设置的参数):
 
